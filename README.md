@@ -1,2 +1,3 @@
 # Fake-News-Detection-using-Hybrid-Transformer-Models
-Hybrid DistilBERT-based fake news detection model achieving 99.37% accuracy using BiLSTM and CNN-LSTM architectures
+
+This project focuses on detecting fake news using advanced deep learning techniques by combining transformer-based models with sequential neural networks. The model leverages the contextual understanding of DistilBERT along with the sequence modeling capabilities of BiLSTM and CNN-LSTM architectures to achieve high accuracy in classification.
